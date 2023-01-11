@@ -4,6 +4,5 @@
 
 ### Self Introduction
 
-student who loves open source projects.   
-***Currently Busy with school work and unavailable.***
+student who loves open source projects and tinkering around
 
